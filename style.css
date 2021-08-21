@@ -5,13 +5,13 @@ body{
 
 .form {
   border-radius: 12px;
-  margin-top: 150px;
+  margin-top: 300px;
   background-color: white;
   height: 540px;
   width: 400px;
   padding: 5px;
   box-sizing: border-box;
-  margin-left: 37%;
+  margin-left: 35%;
   display: flex;
 }
 
